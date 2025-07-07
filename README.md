@@ -9,7 +9,9 @@ Passionate about AI, Cloud, and Software Development
 🌍 Always learning and exploring new tech  
 
 ## ⚡ Programming Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+<div >
+  <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.jpg" width="64" >
+</div>
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Milvus](https://img.shields.io/badge/-Milvus-333333?style=flat&logo=milvus)
 
