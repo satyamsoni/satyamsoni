@@ -8,12 +8,16 @@ Passionate about AI, Cloud, and Software Development
 💻 Building scalable, secure systems  
 🌍 Always learning and exploring new tech  
 
-## ⚡ Programming Languages
-<div >
-  <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="64" >
-</div>
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Milvus](https://img.shields.io/badge/-Milvus-333333?style=flat&logo=milvus)
+## 💻 Programming Languages
+<table cellpadding="3" cellspacing="3">
+<tr>
+<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="64" ></td>
+<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/nodejs.png" width="64" ></td>
+<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/javascript.png" width="64" ></td>
+<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/php.png" width="64" ></td>
+</tr>
+</table>
+
 
 ## 📊 GitHub Stats
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsoni&show_icons=true&theme=dark)
