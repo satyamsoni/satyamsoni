@@ -59,8 +59,19 @@ Passionate about AI, Cloud, and Software Development
 </tr>
 </table>
 
+## ⚒️ Tools & Libraries
 
-## ⚡ Tech Stack
+<table cellpadding="3" cellspacing="3" border="0">
+<tr>
+<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/pandas.png" width="64" ></td>
+<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/tensorflow.png" width="64" ></td>
+<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/pytorch.png" width="64" ></td>
+<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/transformers.png" width="64" ></td>
+</tr>
+</table>
+
+
+## ⚡ Tech Stacks
 
 
 
