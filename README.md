@@ -11,10 +11,10 @@ Passionate about AI, Cloud, and Software Development
 ## 💻 Programming Languages
 <table cellpadding="3" cellspacing="3" border="0">
 <tr>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/nodejs.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/javascript.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/php.png" width="64" ></td>
+<td style="border: 0px;"><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="64" ></td>
+<td style="border: 0px;"><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/nodejs.png" width="64" ></td>
+<td style="border: 0px;"><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/javascript.png" width="64" ></td>
+<td style="border: 0px;"><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/php.png" width="64" ></td>
 </tr>
 </table>
 
