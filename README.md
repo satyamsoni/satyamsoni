@@ -9,7 +9,7 @@ Passionate about AI, Cloud, and Software Development
 🌍 Always learning and exploring new tech  
 
 ## 💻 Programming Languages
-<table cellpadding="3" cellspacing="3">
+<table cellpadding="3" cellspacing="3" border="0">
 <tr>
 <td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="64" ></td>
 <td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/nodejs.png" width="64" ></td>
