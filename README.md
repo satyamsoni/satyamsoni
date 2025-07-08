@@ -144,6 +144,38 @@ Passionate about AI, Cloud, and Software Development
         </p>
       </td>
     </tr>
+    <tr>
+      <td>
+        App Integration
+      </td>
+      <td>
+        Analytics
+      </td>
+      <td>
+        Business App
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" width="32" title="API Gateway" />
+          <img src="https://icon.icepanel.io/AWS/svg/App-Integration/EventBridge.svg" title="EventBridge" width="32" />
+          <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Notification-Service.svg" title="SNS" width="32" />
+          <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" title="SQS" width="32" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://icon.icepanel.io/AWS/svg/Analytics/Athena.svg" width="32" title="Athena" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/Simple-Email-Service.svg" width="32" title="SES" />
+          <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/WorkMail.svg" width="32" title="WorkMail" />
+        </p>
+      </td>
+    </tr>
   </table>
 </span>
 
