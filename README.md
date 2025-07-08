@@ -8,9 +8,21 @@ Passionate about AI, Cloud, and Software Development
 💻 Building scalable, secure systems  
 🌍 Always learning and exploring new tech  
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamsoni&show_icons=true&locale=en&layout=compact" alt="satyamsoni" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamsoni&show_icons=true&locale=en" alt="satyamsoni" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsoni&" alt="satyamsoni" />
+</p>
 
 <p align="center">
   ## 💻 Programming Languages
+  <br/>
   <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="48" />
   <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/nodejs.png" width="48" />
   <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/javascript.png" width="48" />
