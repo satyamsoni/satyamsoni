@@ -113,10 +113,39 @@ Passionate about AI, Cloud, and Software Development
 
 </table>
 
+## ⚡ AWS Cloud Product/Services
 
-## ⚡ Tech Stacks
-
-
+<span align="center">
+  <table cellpadding="3" cellspacing="3" border="0">
+    <tr>
+      <td>
+        Compute
+      </td>
+      <td>
+        Database
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="48" title="EC2" />
+          <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2-Auto-Scaling.svg" title="EC2 Auto scaling" width="48" />
+          <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" title="Lambda" width="48" />
+          <img src="https://icon.icepanel.io/AWS/svg/Compute/Lightsail.svg" title="Lightsail" width="48" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://icon.icepanel.io/AWS/svg/Database/Aurora.svg" width="48" title="Aurora" />
+          <img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" title="DynamoDB" width="48" />
+          <img src="https://icon.icepanel.io/AWS/svg/Database/ElastiCache.svg" title="ElastiCache" width="48" />
+          <img src="https://icon.icepanel.io/AWS/svg/Database/Keyspaces.svg" title="Keyspaces" width="48" />
+          <img src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" title="RDS" width="48" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</span>
 
 ## 🔗 Connect with me
 
