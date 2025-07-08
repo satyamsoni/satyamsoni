@@ -45,6 +45,9 @@ Passionate about AI, Cloud, and Software Development
       <td>
         ⛁ Relational Databases
       </td>
+      <td>
+        ⛁ NoSQL Databases
+      </td>
     </tr>
     <tr>
       <td>
@@ -55,37 +58,19 @@ Passionate about AI, Cloud, and Software Development
           <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/sqlserver.png" width="48" />
         </p>
       </td>
+      <td>
+        <p align="center">
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/redis.png" width="48" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/memcache.png" width="48" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/dynamodb.png" width="48" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/spark.png" width="48" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/aerospike.png" width="48" />
+        </p>
+      </td>
     </tr>
   </table>
 </span>
-<table cellpadding="3" cellspacing="3" border="0">
-  <tr>
-    <td>
-      ⛁ Relational Databases
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/postgres.png" width="48" />
-        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/mysql.png" width="48" />
-        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/bigquery.png" width="48" />
-        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/sqlserver.png" width="48" />
-      </p>
-    </td>
-  </tr>
-</table>
 
-## ⛁ NoSQL Databases
-
-<table cellpadding="3" cellspacing="3" border="0">
-<tr>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/redis.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/memcache.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/dynamodb.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/aerospike.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/spark.png" width="64" ></td>
-</tr>
 </table>
 
 ## ⛁ Vector Databases
