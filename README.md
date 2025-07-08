@@ -113,7 +113,7 @@ Passionate about AI, Cloud, and Software Development
 
 </table>
 
-## ⚡ AWS Cloud Product/Services I am good at 
+## ☁️ AWS Cloud Product/Services - I am good at 
 
 <span align="center">
   <table cellpadding="3" cellspacing="3" border="0">
@@ -262,6 +262,30 @@ Passionate about AI, Cloud, and Software Development
           <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/WorkMail.svg" width="32" title="WorkMail" />
           <img src="https://icon.icepanel.io/AWS/svg/Cloud-Financial-Management/Savings-Plans.svg" width="32" title="Saving Plans" />
           <img src="https://icon.icepanel.io/AWS/svg/Cloud-Financial-Management/Budgets.svg" width="32" title="Budget" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</span>
+
+## ☁️ Other Cloud Product/Services - I am good at 
+
+<span align="center">
+  <table cellpadding="3" cellspacing="3" border="0">
+    <tr>
+      <td>
+        CloudFlare
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://images.seeklogo.com/logo-png/29/2/cloudflare-logo-png_seeklogo-294312.png" width="32" title="CDN" />
+          <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/1/cloudflare-workers-icon-jsii6pml8tdp4sy8kgarwe.png/cloudflare-workers-icon-gfyr5fw7aqcwsa1on45oem.png" title="Workers" width="32" />
+          <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/1rA0s7prd585jMeGr742bQ/b9377e05b03e709ac2bf96ed0f8679e8/BDES-4911_-_ddos-protection-hero-illustration.svg" title="DDos Protection" width="32" />
+          <img src="https://images.seeklogo.com/logo-png/42/2/cloudflare-pages-single-logo-png_seeklogo-426078.png" title="Pages" width="32" />
+          <img src="https://cdn-1.webcatalog.io/catalog/cloudflare-r2/cloudflare-r2-icon.png?v=1714777230986" title="R2" width="32" />
+          <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/6uZVCcQ0QrCNctcZMrzPMS/30bd1c225dde4080bc283c1fe63d7e9a/cloudflare-stream-delivery.png" title="Stream" width="32" />
         </p>
       </td>
     </tr>
