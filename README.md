@@ -151,9 +151,6 @@ Passionate about AI, Cloud, and Software Development
       <td>
         Analytics
       </td>
-      <td>
-        Business App
-      </td>
     </tr>
     <tr>
       <td>
@@ -169,10 +166,61 @@ Passionate about AI, Cloud, and Software Development
           <img src="https://icon.icepanel.io/AWS/svg/Analytics/Athena.svg" width="32" title="Athena" />
         </p>
       </td>
+    </tr>
+    <tr>
+      <td>
+        Network & Delivery
+      </td>
+      <td>
+        AI/ML
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="32" title="Route 53" />
+          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/CloudFront.svg" width="32" title="Cloud Front" />
+          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" width="32" title="VPN" />
+          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Elastic-Load-Balancing.svg" width="32" title="Elastic Load Balancer" />
+          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Direct-Connect.svg" width="32" title="Direct Connect" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://www.bestaitools.com/wp-content/uploads/2024/03/amazon-bedrock-square.png" width="32" title="SES" />
+          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Comprehend.svg" width="32" title="Comprehend" />
+          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Polly.svg" width="32" title="Polly" />
+          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Rekognition.svg" width="32" title="Rekognition" />
+          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Textract.svg" width="32" title="Textract" />
+          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Translate.svg" width="32" title="Translate" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        DevOps
+      </td>
+      <td>
+        Business App & Billing
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/Cloud9.svg" width="32" title="Cloud9" />
+          <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodeCommit.svg" width="32" title="Code Commit" />
+          <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodeDeploy.svg" width="32" title="Code Deploy" />
+          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" width="32" title="Cloud Formation" />
+          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/Well-Architected-Tool.svg" width="32" title="Well Architected" />
+          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" width="32" title="Cloud Watch" />
+        </p>
+      </td>
       <td>
         <p align="center">
           <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/Simple-Email-Service.svg" width="32" title="SES" />
           <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/WorkMail.svg" width="32" title="WorkMail" />
+          <img src="https://icon.icepanel.io/AWS/svg/Cloud-Financial-Management/Savings-Plans.svg" width="32" title="Saving Plans" />
+          <img src="https://icon.icepanel.io/AWS/svg/Cloud-Financial-Management/Budgets.svg" width="32" title="Budget" />
         </p>
       </td>
     </tr>
