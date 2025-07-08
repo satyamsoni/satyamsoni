@@ -320,7 +320,7 @@ cost-optimized platforms.
   </table>
 </span>
 
-## 🔗 Connect with me
+## 💬 Connect with me
 
 <p align="left">
 <a href="https://dev.to/satyamsoni" target="blank"><img align="center" src="https://github.com/satyamsoni/satyamsoni/blob/main/images/devto.svg" alt="satyamsoni" height="30" width="40" /></a>
