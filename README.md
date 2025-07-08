@@ -28,10 +28,12 @@ cost-optimized platforms.
 
 ### Hobbies & Interests
 
-👨🏻‍💻 I love to learn new technologies
-  ✈️ Travel , i have been to 23 Countries 
-  🌍 Geopolitics and World affairs
-  💹 Market Trends
+💻 I love to learn new technologies  
+✈️ Travel , i have been to 23 Countries  
+🌍 Geopolitics and World affairs  
+💹 Market Trends  
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satyamsoni" alt="satyamsoni" width="93%" />
 </p>
