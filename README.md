@@ -23,7 +23,9 @@ Passionate about AI, Cloud, and Software Development
 <table cellpadding="3" cellspacing="3" border="0">
   <tr>
     <td>
+      
       **💻 Programming Languages**
+      
       <p align="center">
         <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="48" />
         <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/nodejs.png" width="48" />
