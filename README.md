@@ -23,7 +23,7 @@ Passionate about AI, Cloud, and Software Development
 ## ⚡ Tech Stacks
 
 <span align="center">
-  <table cellpadding="3" cellspacing="3" border="0" style="float: left;margin-right: 10px;">
+  <table cellpadding="3" cellspacing="3" border="0">
     <tr>
       <td>
         💻 Programming Languages
@@ -91,19 +91,25 @@ Passionate about AI, Cloud, and Software Development
       </td>
     </tr>
   </table>
+  <table cellpadding="3" cellspacing="3" border="0">
+    <tr>
+      <td>
+        ⚒️ Tools & Libraries
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/pandas.png" width="48" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/tensorflow.png" width="48" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/pytorch.png" width="48" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/transformers.png" width="48" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </span>
 
-</table>
-
-## ⚒️ Tools & Libraries
-
-<table cellpadding="3" cellspacing="3" border="0">
-<tr>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/pandas.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/tensorflow.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/pytorch.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/transformers.png" width="64" ></td>
-</tr>
 </table>
 
 
