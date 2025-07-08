@@ -8,8 +8,9 @@ Passionate about AI, Cloud, and Software Development
 💻 Building scalable, secure systems  
 🌍 Always learning and exploring new tech  
 
-## 💻 Programming Languages
+
 <p align="center">
+  ## 💻 Programming Languages
   <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="48" />
   <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/nodejs.png" width="48" />
   <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/javascript.png" width="48" />
