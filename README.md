@@ -128,19 +128,19 @@ Passionate about AI, Cloud, and Software Development
     <tr>
       <td>
         <p align="center">
-          <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="32" title="EC2" />
-          <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2-Auto-Scaling.svg" title="EC2 Auto scaling" width="32" />
-          <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" title="Lambda" width="32" />
-          <img src="https://icon.icepanel.io/AWS/svg/Compute/Lightsail.svg" title="Lightsail" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/EC2.svg" width="32" title="EC2" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/EC2-Auto-Scaling.svg" title="EC2 Auto scaling" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Lambda.svg" title="Lambda" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Lightsail.svg" title="Lightsail" width="32" />
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="https://icon.icepanel.io/AWS/svg/Database/Aurora.svg" width="32" title="Aurora" />
-          <img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" title="DynamoDB" width="32" />
-          <img src="https://icon.icepanel.io/AWS/svg/Database/ElastiCache.svg" title="ElastiCache" width="32" />
-          <img src="https://icon.icepanel.io/AWS/svg/Database/Keyspaces.svg" title="Keyspaces" width="32" />
-          <img src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" title="RDS" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Aurora.svg" width="32" title="Aurora" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/DynamoDB.svg" title="DynamoDB" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/ElastiCache.svg" title="ElastiCache" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Keyspaces.svg" title="Keyspaces" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/RDS.svg" title="RDS" width="32" />
         </p>
       </td>
     </tr>
@@ -155,15 +155,15 @@ Passionate about AI, Cloud, and Software Development
     <tr>
       <td>
         <p align="center">
-          <img src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" width="32" title="API Gateway" />
-          <img src="https://icon.icepanel.io/AWS/svg/App-Integration/EventBridge.svg" title="EventBridge" width="32" />
-          <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Notification-Service.svg" title="SNS" width="32" />
-          <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" title="SQS" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/API-Gateway.svg" width="32" title="API Gateway" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/EventBridge.svg" title="EventBridge" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Simple-Notification-Service.svg" title="SNS" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Simple-Queue-Service.svg" title="SQS" width="32" />
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="https://icon.icepanel.io/AWS/svg/Analytics/Athena.svg" width="32" title="Athena" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Athena.svg" width="32" title="Athena" />
         </p>
       </td>
     </tr>
@@ -178,21 +178,21 @@ Passionate about AI, Cloud, and Software Development
     <tr>
       <td>
         <p align="center">
-          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="32" title="Route 53" />
-          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/CloudFront.svg" width="32" title="Cloud Front" />
-          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" width="32" title="VPN" />
-          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Elastic-Load-Balancing.svg" width="32" title="Elastic Load Balancer" />
-          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Direct-Connect.svg" width="32" title="Direct Connect" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Route-53.svg" width="32" title="Route 53" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/CloudFront.svg" width="32" title="Cloud Front" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Virtual-Private-Cloud.svg" width="32" title="VPN" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Elastic-Load-Balancing.svg" width="32" title="Elastic Load Balancer" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Direct-Connect.svg" width="32" title="Direct Connect" />
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="https://www.bestaitools.com/wp-content/uploads/2024/03/amazon-bedrock-square.png" width="32" title="SES" />
-          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Comprehend.svg" width="32" title="Comprehend" />
-          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Polly.svg" width="32" title="Polly" />
-          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Rekognition.svg" width="32" title="Rekognition" />
-          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Textract.svg" width="32" title="Textract" />
-          <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/Translate.svg" width="32" title="Translate" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/amazon-bedrock-square.png" width="32" title="SES" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Comprehend.svg" width="32" title="Comprehend" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Polly.svg" width="32" title="Polly" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Rekognition.svg" width="32" title="Rekognition" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Textract.svg" width="32" title="Textract" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Translate.svg" width="32" title="Translate" />
         </p>
       </td>
     </tr>
@@ -207,18 +207,18 @@ Passionate about AI, Cloud, and Software Development
     <tr>
       <td>
         <p align="center">
-          <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="32" title="S3" />
-          <img src="https://icon.icepanel.io/AWS/svg/Storage/EFS.svg" width="32" title="EFS" />
-          <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service-Glacier.svg" width="32" title="Glacier" />
-          <img src="https://icon.icepanel.io/AWS/svg/Storage/Elastic-Block-Store.svg" width="32" title="EBS" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Simple-Storage-Service.svg" width="32" title="S3" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/EFS.svg" width="32" title="EFS" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Simple-Storage-Service-Glacier.svg" width="32" title="Glacier" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Elastic-Block-Store.svg" width="32" title="EBS" />
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/Config.svg" width="32" title="Config" />
-          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudTrail.svg" width="32" title="CloudTrail" />
-          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" width="32" title="Cloud Watch" />
-          <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Key-Management-Service.svg" width="32" title="Key Management" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Config.svg" width="32" title="Config" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/CloudTrail.svg" width="32" title="CloudTrail" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/CloudWatch.svg" width="32" title="Cloud Watch" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Key-Management-Service.svg" width="32" title="Key Management" />
         </p>
       </td>
     </tr>
@@ -233,20 +233,20 @@ Passionate about AI, Cloud, and Software Development
     <tr>
       <td>
         <p align="center">
-        <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elastic-Transcoder.svg" width="32" title="Elastic Transcoder" />
-        <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-Live.svg" width="32" title="Elemental Live" />
-        <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-MediaConvert.svg" width="32" title="Elemental MediaConvert" />
-        <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-MediaStore.svg" width="32" title="Elemental MediaStore" />
+        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Elastic-Transcoder.svg" width="32" title="Elastic Transcoder" />
+        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Elemental-Live.svg" width="32" title="Elemental Live" />
+        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Elemental-MediaConvert.svg" width="32" title="Elemental MediaConvert" />
+        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Elemental-MediaStore.svg" width="32" title="Elemental MediaStore" />
       </p>
     </td>
     <td>
         <p align="center">
-          <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/Cloud9.svg" width="32" title="Cloud9" />
-          <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodeCommit.svg" width="32" title="Code Commit" />
-          <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodeDeploy.svg" width="32" title="Code Deploy" />
-          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" width="32" title="Cloud Formation" />
-          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/Well-Architected-Tool.svg" width="32" title="Well Architected" />
-          <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Certificate-Manager.svg" width="32" title="Certificate Manager" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Cloud9.svg" width="32" title="Cloud9" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/CodeCommit.svg" width="32" title="Code Commit" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/CodeDeploy.svg" width="32" title="Code Deploy" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/CloudFormation.svg" width="32" title="Cloud Formation" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Well-Architected-Tool.svg" width="32" title="Well Architected" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Certificate-Manager.svg" width="32" title="Certificate Manager" />
         </p>
       </td>
     </tr>
@@ -258,10 +258,10 @@ Passionate about AI, Cloud, and Software Development
     <tr>
       <td>
         <p align="center">
-          <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/Simple-Email-Service.svg" width="32" title="SES" />
-          <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/WorkMail.svg" width="32" title="WorkMail" />
-          <img src="https://icon.icepanel.io/AWS/svg/Cloud-Financial-Management/Savings-Plans.svg" width="32" title="Saving Plans" />
-          <img src="https://icon.icepanel.io/AWS/svg/Cloud-Financial-Management/Budgets.svg" width="32" title="Budget" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Simple-Email-Service.svg" width="32" title="SES" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/WorkMail.svg" width="32" title="WorkMail" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Savings-Plans.svg" width="32" title="Saving Plans" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/Budgets.svg" width="32" title="Budget" />
         </p>
       </td>
     </tr>
@@ -283,19 +283,19 @@ Passionate about AI, Cloud, and Software Development
     <tr>
       <td>
         <p align="center">
-          <img src="https://images.icon-icons.com/2407/PNG/128/cloudflare_icon_146206.png" width="32" title="CDN" />
-          <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/1/cloudflare-workers-icon-jsii6pml8tdp4sy8kgarwe.png/cloudflare-workers-icon-gfyr5fw7aqcwsa1on45oem.png" title="Workers" width="32" />
-          <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/5KA7D3Y51QoFVSVS5OyZKo/137a3a7079cb012076913b904a77b188/icon-ddos-blue.png" title="DDos Protection" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/cloudflare_icon_146206.png" width="32" title="CDN" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/cloudflare-workers-icon-gfyr5fw7aqcwsa1on45oem.png" title="Workers" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/icon-ddos-blue.png" title="DDos Protection" width="32" />
           <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/pages.png" title="Pages" width="32" />
-          <img src="https://cdn-1.webcatalog.io/catalog/cloudflare-r2/cloudflare-r2-icon.png?v=1714777230986" title="R2" width="32" />
-          <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/6uZVCcQ0QrCNctcZMrzPMS/30bd1c225dde4080bc283c1fe63d7e9a/cloudflare-stream-delivery.png" title="Stream" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/cloudflare-r2-icon.png" title="R2" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/cloudflare-stream-delivery.png" title="Stream" width="32" />
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="https://codelabs.developers.google.com/static/codelabs/cloud-starting-cloudfunctions/img/3b93ba3023ef58a5.png" width="32" title="Cloud Functions" />
-          <img src="https://dt-cdn.net/hub/logos/google-cloud-storage.png" title="Google Store" width="32" />
-          <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" title="BigQuery" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/3b93ba3023ef58a5.png" width="32" title="Cloud Functions" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/google-cloud-storage.png" title="Google Store" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/google-bigquery-logo-1.svg" title="BigQuery" width="32" />
         </p>
       </td>
     </tr>
