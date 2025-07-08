@@ -283,7 +283,7 @@ Passionate about AI, Cloud, and Software Development
           <img src="https://images.icon-icons.com/2407/PNG/128/cloudflare_icon_146206.png" width="32" title="CDN" />
           <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/1/cloudflare-workers-icon-jsii6pml8tdp4sy8kgarwe.png/cloudflare-workers-icon-gfyr5fw7aqcwsa1on45oem.png" title="Workers" width="32" />
           <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/5KA7D3Y51QoFVSVS5OyZKo/137a3a7079cb012076913b904a77b188/icon-ddos-blue.png" title="DDos Protection" width="32" />
-          <img src="https://images.seeklogo.com/logo-png/42/2/cloudflare-pages-single-logo-png_seeklogo-426078.png" title="Pages" width="32" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/pages.png" title="Pages" width="32" />
           <img src="https://cdn-1.webcatalog.io/catalog/cloudflare-r2/cloudflare-r2-icon.png?v=1714777230986" title="R2" width="32" />
           <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/6uZVCcQ0QrCNctcZMrzPMS/30bd1c225dde4080bc283c1fe63d7e9a/cloudflare-stream-delivery.png" title="Stream" width="32" />
         </p>
