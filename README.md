@@ -25,7 +25,7 @@ Passionate about AI, Cloud, and Software Development
 <table cellpadding="3" cellspacing="3" border="0">
   <tr>
     <td>
-      <table cellpadding="3" cellspacing="3" border="0">
+      <table cellpadding="3" cellspacing="3" border="0" style="float: left;margin-right: 10px;">
         <tr>
           <td>
             💻 Programming Languages
