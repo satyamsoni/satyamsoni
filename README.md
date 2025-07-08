@@ -23,6 +23,7 @@ Passionate about AI, Cloud, and Software Development
 ## ⚡ Tech Stacks
 
 <p align="center">
+  <p align="center">
   <table cellpadding="3" cellspacing="3" border="0" style="float: left;margin-right: 10px;">
     <tr>
       <td>
@@ -57,6 +58,7 @@ Passionate about AI, Cloud, and Software Development
       </td>
     </tr>
   </table>
+  </p>
 </p>
 <table cellpadding="3" cellspacing="3" border="0">
   <tr>
