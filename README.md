@@ -276,6 +276,9 @@ Passionate about AI, Cloud, and Software Development
       <td>
         CloudFlare
       </td>
+      <td>
+        GCP
+      </td>
     </tr>
     <tr>
       <td>
@@ -286,6 +289,13 @@ Passionate about AI, Cloud, and Software Development
           <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/pages.png" title="Pages" width="32" />
           <img src="https://cdn-1.webcatalog.io/catalog/cloudflare-r2/cloudflare-r2-icon.png?v=1714777230986" title="R2" width="32" />
           <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/6uZVCcQ0QrCNctcZMrzPMS/30bd1c225dde4080bc283c1fe63d7e9a/cloudflare-stream-delivery.png" title="Stream" width="32" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://codelabs.developers.google.com/static/codelabs/cloud-starting-cloudfunctions/img/3b93ba3023ef58a5.png" width="32" title="Cloud Functions" />
+          <img src="https://www.logo.wine/a/logo/Google_Storage/Google_Storage-Logo.wine.svg" title="Google Store" width="32" />
+          <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" title="BigQuery" width="32" />
         </p>
       </td>
     </tr>
