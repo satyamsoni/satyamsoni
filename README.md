@@ -13,9 +13,6 @@ Passionate about AI, Cloud, and Software Development
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamsoni&show_icons=true&locale=en" alt="satyamsoni" width="45%" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsoni&" alt="satyamsoni" width="45%" />
 </p>
 
