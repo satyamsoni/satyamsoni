@@ -8,6 +8,24 @@ Passionate about AI, Cloud, and Software Development
 💻 Building scalable, secure systems  
 🌍 Always learning and exploring new tech  
 
+### About me 
+
+Innovative and award-winning Enterprise
+Architect with 19+ years of expertise in
+building and scaling intelligent digital
+systems across GIS, AdTech, and AI
+domains. Proven record of developing
+enterprise-grade cloud-native solutions for
+high-performance environments, including
+oil & gas, utilities, media, and public safety
+sectors. Adept at leading cross-functional
+teams, managing product life cycles, and
+implementing infrastructure governance
+frameworks. Recognized for blending deep
+technical insight with strong business
+acumen to deliver scalable, secure, and
+cost-optimized platforms.
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satyamsoni" alt="satyamsoni" width="93%" />
 </p>
