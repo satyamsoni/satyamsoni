@@ -20,7 +20,7 @@ Passionate about AI, Cloud, and Software Development
 
 </p>
 
-## ⚡ Tech Stacks
+## ⚡ Tech Stacks - regularly used by me in various recent projects
 
 <span align="center">
   <table cellpadding="3" cellspacing="3" border="0">
@@ -113,7 +113,7 @@ Passionate about AI, Cloud, and Software Development
 
 </table>
 
-## ⚡ AWS Cloud Product/Services
+## ⚡ AWS Cloud Product/Services I am good at 
 
 <span align="center">
   <table cellpadding="3" cellspacing="3" border="0">
