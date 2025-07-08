@@ -8,6 +8,8 @@ Passionate about AI, Cloud, and Software Development
 💻 Building scalable, secure systems  
 🌍 Always learning and exploring new tech  
 
+I have been building products and softwares with IP rights, so my Github has been empty all these 19 years of my career. recently started focusing on my GitHub account.
+
 ### About me 
 
 Innovative and award-winning Enterprise
