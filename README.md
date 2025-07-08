@@ -198,23 +198,64 @@ Passionate about AI, Cloud, and Software Development
     </tr>
     <tr>
       <td>
-        DevOps
+        Storage
       </td>
       <td>
-        Business App & Billing
+        Config & Monitoring
       </td>
     </tr>
     <tr>
       <td>
+        <p align="center">
+          <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="32" title="S3" />
+          <img src="https://icon.icepanel.io/AWS/svg/Storage/EFS.svg" width="32" title="EFS" />
+          <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service-Glacier.svg" width="32" title="Glacier" />
+          <img src="https://icon.icepanel.io/AWS/svg/Storage/Elastic-Block-Store.svg" width="32" title="EBS" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/Config.svg" width="32" title="Config" />
+          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudTrail.svg" width="32" title="CloudTrail" />
+          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" width="32" title="Cloud Watch" />
+          <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Key-Management-Service.svg" width="32" title="Key Management" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Media
+      </td>
+      <td>
+        DevOps
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+        <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elastic-Transcoder.svg" width="32" title="Elastic Transcoder" />
+        <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-Live.svg" width="32" title="Elemental Live" />
+        <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-MediaConvert.svg" width="32" title="Elemental MediaConvert" />
+        <img src="https://icon.icepanel.io/AWS/svg/Media-Services/Elemental-MediaStore.svg" width="32" title="Elemental MediaStore" />
+      </p>
+    </td>
+    <td>
         <p align="center">
           <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/Cloud9.svg" width="32" title="Cloud9" />
           <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodeCommit.svg" width="32" title="Code Commit" />
           <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodeDeploy.svg" width="32" title="Code Deploy" />
           <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" width="32" title="Cloud Formation" />
           <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/Well-Architected-Tool.svg" width="32" title="Well Architected" />
-          <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" width="32" title="Cloud Watch" />
+          <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Certificate-Manager.svg" width="32" title="Certificate Manager" />
         </p>
       </td>
+    </tr>
+    <tr>
+      <td>
+        Business App & Billing
+      </td>
+    </tr>
+    <tr>
       <td>
         <p align="center">
           <img src="https://icon.icepanel.io/AWS/svg/Business-Applications/Simple-Email-Service.svg" width="32" title="SES" />
