@@ -68,27 +68,31 @@ Passionate about AI, Cloud, and Software Development
         </p>
       </td>
     </tr>
+    <tr>
+      <td>
+        ⛁ Vector Databases
+      </td>
+      <td>
+        ⛁ GIS Databases
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/milvus.png" width="48" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/redisvector.png" width="48" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/postgis.png" width="48" />
+          <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/redisgeo.png" width="48" />
+        </p>
+      </td>
+    </tr>
   </table>
 </span>
 
-</table>
-
-## ⛁ Vector Databases
-
-<table cellpadding="3" cellspacing="3" border="0">
-<tr>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/milvus.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/redisvector.png" width="64" ></td>
-</tr>
-</table>
-
-## ⛁ GIS Databases
-
-<table cellpadding="3" cellspacing="3" border="0">
-<tr>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/postgis.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/redisgeo.png" width="64" ></td>
-</tr>
 </table>
 
 ## ⚒️ Tools & Libraries
