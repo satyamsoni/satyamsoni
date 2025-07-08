@@ -23,7 +23,7 @@ Passionate about AI, Cloud, and Software Development
 <table cellpadding="3" cellspacing="3" border="0">
   <tr>
     <td>
-      **💻 Programming Languages**
+      Programming Languages
     </td>
   </tr>
   <tr>
