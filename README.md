@@ -11,11 +11,14 @@ Passionate about AI, Cloud, and Software Development
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satyamsoni" alt="satyamsoni" width="100%" />
 </p>
-<p align="center">
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamsoni&show_icons=true&locale=en" alt="satyamsoni" width="50%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsoni&" alt="satyamsoni" width="50%" />
 </p>
+
 <br />
+
 ## 💻 Programming Languages
 <p align="center">
   <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="48" />
