@@ -117,8 +117,5 @@ Passionate about AI, Cloud, and Software Development
 
 
 
-## 📊 GitHub Stats
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsoni&show_icons=true&theme=dark)
-
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyamsoni/)
