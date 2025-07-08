@@ -9,7 +9,7 @@ Passionate about AI, Cloud, and Software Development
 🌍 Always learning and exploring new tech  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyamsoni" alt="satyamsoni" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=satyamsoni" alt="satyamsoni" width="93%" />
 </p>
 
 <p align="center">
