@@ -294,7 +294,7 @@ Passionate about AI, Cloud, and Software Development
       <td>
         <p align="center">
           <img src="https://codelabs.developers.google.com/static/codelabs/cloud-starting-cloudfunctions/img/3b93ba3023ef58a5.png" width="32" title="Cloud Functions" />
-          <img src="https://www.logo.wine/a/logo/Google_Storage/Google_Storage-Logo.wine.svg" title="Google Store" width="32" />
+          <img src="https://dt-cdn.net/hub/logos/google-cloud-storage.png" title="Google Store" width="32" />
           <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" title="BigQuery" width="32" />
         </p>
       </td>
