@@ -20,10 +20,12 @@ Passionate about AI, Cloud, and Software Development
 
 </p>
 
+## ⚡ Tech Stacks
+
 <table cellpadding="3" cellspacing="3" border="0">
   <tr>
     <td>
-      Programming Languages
+      💻 Programming Languages
     </td>
   </tr>
   <tr>
@@ -38,33 +40,22 @@ Passionate about AI, Cloud, and Software Development
   </tr>
 </table>
 
-## 💻 Programming Languages
-<p align="center">
-  <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="48" />
-  <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/nodejs.png" width="48" />
-  <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/javascript.png" width="48" />
-  <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/php.png" width="48" />
-</p>
-
-## 💻 Programming Languages
 <table cellpadding="3" cellspacing="3" border="0">
-<tr>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/python.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/nodejs.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/javascript.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/php.png" width="64" ></td>
-</tr>
-</table>
-
-## ⛁ Relational Databases
-
-<table cellpadding="3" cellspacing="3" border="0">
-<tr>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/postgres.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/mysql.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/bigquery.png" width="64" ></td>
-<td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/sqlserver.png" width="64" ></td>
-</tr>
+  <tr>
+    <td>
+      ⛁ Relational Databases
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/postgres.png" width="48" />
+        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/mysql.png" width="48" />
+        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/bigquery.png" width="48" />
+        <img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/sqlserver.png" width="48" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## ⛁ NoSQL Databases
