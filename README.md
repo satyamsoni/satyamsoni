@@ -17,7 +17,7 @@ Innovative and award-winning Enterprise Architect with 19+ years of expertise in
 ### Hobbies & Interests
 
 💻 I love to learn new technologies  
-✈️ Travel , i have been to 23 Countries  🇮🇳🇳🇵🇲🇾🇹🇭🇮🇩🇰🇭🇦🇪🇬🇧🇳🇱🇧🇪🇩🇪🇨🇭🇫🇷🇨🇳🇱🇦🇻🇳🇹🇼🇸🇬🇲🇻🇺🇸🇩🇰🇵🇱🇨🇿
+✈️ Travel , i have been to 23 Countries sometimes for work sometimes Travel
 🌍 Geopolitics and World affairs  
 💹 Market Trends  
 
