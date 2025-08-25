@@ -20,7 +20,6 @@ Innovative and award-winning Enterprise Architect with 19+ years of expertise in
 ✈️ Travel , i have been to 23 Countries sometimes for work sometimes Travel
 🌍 Geopolitics and World affairs  
 💹 Market Trends  
-buy_me_a_coffee: satyamsoni
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satyamsoni" alt="satyamsoni" width="93%" />
