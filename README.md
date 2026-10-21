@@ -18,12 +18,37 @@ Innovative and award-winning Enterprise Architect with 19+ years of expertise in
 
 ### Xenon Video Platform
 <table width="100%">
-  <tr><td>Xenon is a video platform for managing and streaming digital content.
-It helps teams organize videos, playlists, channels, and media libraries.
-It supports live streaming and video processing workflows.
-Built on Cloudflare, Xenon is designed to scale with each customer’s needs.</td></tr>
-  <tr></tr><td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/xenon_sequence.gif" width="100%" ></td></tr>
+  <tr>
+    <td>
+      Xenon is a video platform for managing and streaming digital content.It helps teams organize videos, playlists, channels, and media libraries.It supports live streaming and video processing workflows.Built on Cloudflare, Xenon is designed to scale with each customer’s needs.
+    </td></tr>
+  <tr><td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/xenon_sequence.gif" width="100%" ></td></tr>
 </table>
+
+### Xenon Reelify
+<table width="100%">
+  <tr>
+    <td>
+      Reelify turns landscape videos into portrait reels.
+It uses AI to identify key people or objects and keep them in frame.
+Its smart cropping creates smoother, more engaging clips for social platforms.
+It’s designed to make short-form video creation easier.
+    </td></tr>
+  <tr><td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/reelify_sequence.gif" width="100%" ></td></tr>
+</table>
+
+### Merlin - Hybrid AI Workbench with Dev Ops automation
+<table width="100%">
+  <tr>
+    <td>
+      Merlin is a local AI development workbench for building and maintaining software projects.
+It brings repositories, files, terminals, and service monitoring into one workspace.
+Use AI to understand tasks, prepare code changes, and review them before applying.
+Merlin also manages development services through PM2.
+    </td></tr>
+  <tr><td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/merlin_sequence.gif" width="100%" ></td></tr>
+</table>
+
 ### Hobbies & Interests
 
 💻 I love to learn new technologies  
