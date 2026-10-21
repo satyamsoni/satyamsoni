@@ -14,6 +14,16 @@ I have been building products and softwares with IP rights, so my Github has bee
 
 Innovative and award-winning Enterprise Architect with 19+ years of expertise in building and scaling intelligent digital systems across GIS, AdTech, and AI domains. Proven record of developing enterprise-grade cloud-native solutions for high-performance environments, including oil & gas, utilities, media, and public safety sectors. Adept at leading cross-functional teams, managing product life cycles, and implementing infrastructure governance frameworks. Recognized for blending deep technical insight with strong business acumen to deliver scalable, secure, and cost-optimized platforms.
 
+### Current Projects
+
+### Xenon Video Platform
+<table width="100%">
+  <tr><td>Xenon is a video platform for managing and streaming digital content.
+It helps teams organize videos, playlists, channels, and media libraries.
+It supports live streaming and video processing workflows.
+Built on Cloudflare, Xenon is designed to scale with each customer’s needs.</td></tr>
+  <tr></tr><td><img src="https://github.com/satyamsoni/satyamsoni/blob/main/images/xenon_sequence.gif" width="100%" ></td></tr>
+</table>
 ### Hobbies & Interests
 
 💻 I love to learn new technologies  
